@@ -99,7 +99,7 @@ resulting executable from a location where the relative `../resources/` paths
 ## Attribution
 
 The core rendering techniques follow the fundamentals taught by
-[LearnOpenGL](https://learnopengl.com/) and a graphics programming course.
+[LearnOpenGL](https://learnopengl.com/) and a graphics programming course at SNHU.
 The material presets are standard OpenGL reference values. The scene-editing
 UI, material/model library systems, and the overall engine structure were built
 on top of those fundamentals.
